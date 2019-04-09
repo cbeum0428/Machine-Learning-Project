@@ -1,0 +1,418 @@
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Assembly-CSharp.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Assembly-CSharp.pdb
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/mscorlib.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/System.Core.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/System.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/System.Runtime.Serialization.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/System.Xml.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/System.Xml.Linq.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.Locator.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AIModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Analytics.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ARModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AudioModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClothModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CoreModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GridModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HoloLens.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.InputModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Networking.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Purchasing.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Timeline.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TLSModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UI.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UNETModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VideoModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VRModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WebModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WindModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.XRModule.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityScript.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityScript.Lang.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.Cecil.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.SerializationLogic.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.DataContract.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/ExCSS.Unity.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.Parser.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.Compiler.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.UNetWeaver.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.IvyParser.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.Useful.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.CecilTools.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AIModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ARModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AudioModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClothModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CoreModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GridModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.InputModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TLSModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UNETModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VRModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VideoModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WebModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WindModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.XRModule.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UI.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Networking.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Timeline.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HoloLens.xml
+D:/Unity Projects/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+D:/Unity Projects/Machine Learning Game Test/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+D:/Unity Projects/Machine Learning Game Test/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:/Unity Projects/Machine Learning Game Test/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+D:/Unity Projects/Machine Learning Game Test/obj/Debug/Assembly-CSharp.dll
+D:/Unity Projects/Machine Learning Game Test/obj/Debug/Assembly-CSharp.pdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/mscorlib.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/System.Core.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/System.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/System.Xml.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.Locator.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityScript.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.Cecil.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Mono.Security.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/obj/Debug/Assembly-CSharp.dll
+/Users/Cody_Beumer/Desktop/Machine Learning Game Test/obj/Debug/Assembly-CSharp.pdb
